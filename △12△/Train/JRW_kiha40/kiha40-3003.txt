@@ -1,0 +1,11 @@
+BveTs Vehicle 1.00:UTF-8
+;BveTs Vehicle 2.00:UTF-8
+
+PerformanceCurve = ..\..\..\BveDcTrainPack-master\Notch\Sa6d125h_Tacn22_2995_820\Notch.txt
+Parameters = ..\..\..\BveDcTrainPack-master\Vehicle\Kiha40\Modified_Jrw\Params\Param_Kiha40.txt
+Panel = Panel\kiha40-3003\Panel.txt
+Sound = ..\..\..\BveDcTrainPack-master\Vehicle\Kiha40\Modified_Jrw\Sounds\Sound_Kiha40.txt
+
+Ats = Detail\DetailManager.dll
+;Ats32 = Detail\DetailManager.dll
+;Ats64 = Detail\DetailManager_.dll
