@@ -102,7 +102,7 @@ Subject = door
 Location = 1217,1992
 DaytimeImage = DoorOn.png
 NighttimeImage = DoorOn_n.png
-Layer = 3
+Layer = 2
 
 [Pilotlamp]
 Subject = ats0
@@ -129,12 +129,6 @@ Location = 1978,2436
 DaytimeImage = Osae.png
 Nighttimeimage = Osae_On_n.png
 Layer = 10
-
-[Pilotlamp]
-Subject = Door
-Location = 1217,1992
-DaytimeImage = DoorOn.png
-Layer = 6
 
 [Pilotlamp]
 Subject = ats8

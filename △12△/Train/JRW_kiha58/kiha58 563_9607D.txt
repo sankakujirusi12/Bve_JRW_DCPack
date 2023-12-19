@@ -2,7 +2,7 @@ BveTs Vehicle 1.00:UTF-8
 ;BveTs Vehicle 2.00:UTF-8
 
 PerformanceCurve = ..\..\..\BveDcTrainPack-master\Notch\Dmh17h_Tc2a_2976_820\Notch_Engine2.txt
-Parameters = Params\Param_Kiha58_2.txt
+Parameters = Params\Param_Kiha58_5.txt
 Panel = Panel\Panel.txt
 Sound = ..\..\..\BveDcTrainPack-master\Vehicle\Kiha58\Original\Sounds\Sound_Kiha58.txt
 
